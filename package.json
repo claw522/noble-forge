@@ -1,0 +1,14 @@
+{
+  "name": "noble-forge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A GitHub-core forge: REST v3, GraphQL v4, MCP and git smart HTTP in dependency-free Node TypeScript",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  }
+}
